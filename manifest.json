@@ -1,0 +1,17 @@
+{
+    "short_name":"PW Gen.",
+    "name":"Password Generator",
+    "icons":[
+        {
+            "src":"Icon.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        }
+    ],
+    "lang":"ja-JP",
+    "description":"Password Generatorは,条件に合わせてランダムなパスワードを生成するツールです。",
+    "display":"standalone",
+    "start_url":"?standalone=yes",
+    "background_color":"#999999",
+    "theme_color":"#999999"
+}
