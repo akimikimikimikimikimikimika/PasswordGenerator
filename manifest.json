@@ -10,8 +10,7 @@
     ],
     "lang":"ja-JP",
     "description":"Password Generatorは,条件に合わせてランダムなパスワードを生成するツールです。",
-    "display":"standalone",
-    "start_url":"?standalone=yes",
+    "display":"browser",
     "background_color":"#999999",
     "theme_color":"#999999"
 }
